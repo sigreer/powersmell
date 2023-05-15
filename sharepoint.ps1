@@ -1,10 +1,10 @@
 
-$tenant="projectturkana"
+$tenant=""
 $AdminCenterURL = "https://admin-$tenant.sharepoint.com"
     
 #User Name Password to connect 
-$AdminUserName = "simon@projectturkana.com"
-$AdminPassword = "Qor62756" #App Password
+$AdminUserName = ""
+$AdminPassword = "" #App Password
 
 doLogin
 
